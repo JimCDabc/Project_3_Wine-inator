@@ -1,6 +1,5 @@
-# Project_3_Wine-inator
-## DABC Project 3 - The Wine-inator
-##### by Scott, Meaghan, Brittany, and Jim
+# DABC Project 3 - The Wine-inator
+## by Scott, Meaghan, Brittany, and Jim
 
 ### Main Appliction Folder structure
 |Folders | Description |
