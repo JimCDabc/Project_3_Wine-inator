@@ -2,7 +2,8 @@
 ## DABC Project 3 - The Wine-inator
 ##### by Scott, Meaghan, Brittany, and Jim
 
-Folders | Description |
+### Main Appliction Folder structure
+|Folders | Description |
 |:-----|:-----|
 | . | main directory for the root of the app code |
 | app.py | the main Flask app.  All files needed by the app are in folders underneath (e.g. static/ or templates/  |
@@ -18,7 +19,11 @@ Folders | Description |
 | static / js	| javascript used by the app client .html
 | static / ml	| any Machine Learning scripts (.ipynb, .py) to build and test classifiers / predictors.  Save files (.sav, .h5) for classfiers & predictors loaded and used by the app
 | static / sql | schema creation files and query files to configure and load postgres SQL DB if needed by the app
-|sandboxes | folders for each teammate to experiment in |
+
+### Teammate Development Sandbox folders
+|Folders | Description |
+|:-----|:-----|
+|sandboxes | folders for each teammate to experiment in before integrating with main app |
 | sandboxes/ brittany / | Brittany's sandbox |
 | sandoboxes / jim  /| Jim's sandbox |
 | sandboxes / meaghan /| Meaghan's sandbox |
