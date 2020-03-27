@@ -5,4 +5,4 @@ by Scott, Meaghan, Brittany, and Jim
 Folders | Description |
 |-----|-----|
 | . | main directory for the root of the app code |
-|sandboxes | folders for each temate to experiment in |
+|sandboxes | folders for each teammate to experiment in |
