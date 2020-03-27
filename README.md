@@ -17,7 +17,7 @@
 | static / etl	| scripts (.ipynb, .py, ...) to Extract-Transform-Load data. Scripts to wrangle and convert source data to app data.  Loaders for db as needed |
 | static / images	| image files used by the app client.html |
 | static / js	| javascript used by the app client .html
-| static / ml	| any Machine Learning scripts (.ipynb, .py) to build and test classifiers / predictors.  Save files (.sav, .h5) for classfiers & predictors loaded and used by the app
+| static / ml	| any Machine Learning scripts (.ipynb, .py) to build and test classifiers / predictors.  Includes Save files (.sav, .h5) for classfiers & predictors to be loaded and used by the app
 | static / sql | schema creation files and query files to configure and load postgres SQL DB if needed by the app
 
 ### Teammate Development Sandbox folders
