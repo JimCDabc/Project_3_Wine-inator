@@ -1,0 +1,79 @@
+station id,station name,latitude,longitude,zipcode,burrough,city,county,state,address,new_lat,new_lon
+504,1 Ave & E 16 St,40.73221853,-73.98165557,10009,Manhattan,New York,New York County,New York,"1 Ave & E 16 St, New York, NY 10009, USA",40.7326656,-73.9815974
+3423,West Drive & Prospect Park West,40.66106337,-73.97945255,11215,Brooklyn,,Kings County,New York,"West Drive & Prospect Park West, Brooklyn, NY 11215, USA",40.6682162,-73.973828
+3687,E 33 St & 1 Ave,40.74322681,-73.97449784,10016,Manhattan,New York,New York County,New York,"E 33 St & 1 Ave, New York, NY 10016, USA",40.743095,-73.974015
+346,Bank St & Hudson St,40.73652889,-74.00618026,10014,Manhattan,New York,New York County,New York,"Bank St & Hudson St, New York, NY 10014, USA",40.7365564,-74.0058348
+372,Franklin Ave & Myrtle Ave,40.69454609,-73.95801365,11205,Brooklyn,,Kings County,New York,"Franklin Ave & Myrtle Ave, Brooklyn, NY 11205, USA",40.6943575,-73.957998
+394,E 9 St & Avenue C,40.72521311,-73.97768752,10009,Manhattan,New York,New York County,New York,"E 9 St & Avenue C, New York, NY 10009, USA",40.7253003,-73.9779827
+3093,N 6 St & Bedford Ave,40.71745169,-73.95850939,11249,Brooklyn,,Kings County,New York,"N 6 St & Bedford Ave, Brooklyn, NY 11249, USA",40.7172845,-73.958315
+514,12 Ave & W 40 St,40.76087502,-74.00277668,10018,Manhattan,New York,New York County,New York,"451 Bond St, New York, NY 10018, USA",40.761111,-74.002543
+274,Lafayette Ave & Fort Greene Pl,40.68691865,-73.976682,11217,Brooklyn,,Kings County,New York,"Lafayette Ave & Fort Greene Pl, Brooklyn, NY 11217, USA",40.686995,-73.9765767
+467,Dean St & 4 Ave,40.68312489,-73.97895137,11217,Brooklyn,,Kings County,New York,"Dean St & 4 Ave, Brooklyn, NY 11217, USA",40.6830972,-73.97910159999999
+3374,Central Park North & Adam Clayton Powell Blvd,40.799484,-73.955613,10026,Manhattan,New York,New York County,New York,"Central Park North & Adam Clayton Powell Blvd, New York, NY 10026, USA",40.7994071,-73.955214
+536,1 Ave & E 30 St,40.74144387,-73.97536082,10016,Manhattan,New York,New York County,New York,"1 Ave & E 30 St, New York, NY 10016, USA",40.7412767,-73.9753577
+502,Henry St & Grand St,40.714211,-73.981095,10002,Manhattan,New York,New York County,New York,"Henry St & Grand St, New York, NY 10002, USA",40.7142483,-73.9809413
+3046,Marcus Garvey Blvd & Macon St,40.682601,-73.938037,11216,Brooklyn,,Kings County,New York,"Marcus Garvey Blvd & Macon St, Brooklyn, NY 11216, USA",40.682427,-73.937933
+3709,W 15 St & 6 Ave,40.73804614,-73.99642959,10011,Manhattan,New York,New York County,New York,"W 15 St & 6 Ave, New York, NY 10011, USA",40.7380509,-73.99633080000001
+3349,Grand Army Plaza & Plaza St West,40.6729679,-73.97087984,11217,Brooklyn,,Kings County,New York,"Grand Army Plaza & Plaza St West, Brooklyn, NY 11217, USA",40.6726416,-73.9700364
+516,E 47 St & 1 Ave,40.75206862,-73.96784384,10017,Manhattan,New York,New York County,New York,"E 47 St & 1 Ave, New York, NY 10017, USA",40.751836,-73.9674673
+285,Broadway & E 14 St,40.73454567,-73.99074142,10003,Manhattan,New York,New York County,New York,"Broadway & E 14 St, New York, NY 10003, USA",40.7348005,-73.9907326
+513,W 56 St & 10 Ave,40.768254,-73.988639,10019,Manhattan,New York,New York County,New York,"W 56 St & 10 Ave, New York, NY 10019, USA",40.7684554,-73.9890628
+3142,1 Ave & E 62 St,40.761227399999996,-73.96094022,10065,Manhattan,New York,New York County,New York,"1 Ave & E 62 St, New York, NY 10065, USA",40.7614857,-73.9606064
+3236,W 42 St & Dyer Ave,40.75898481,-73.99379969,10036,Manhattan,New York,New York County,New York,"W 42 St & Dyer Ave, New York, NY 10036, USA",40.7589828,-73.9939358
+279,Peck Slip & Front St,40.707873,-74.00166999999999,10038,Manhattan,New York,New York County,New York,"231 Front St, New York, NY 10038, USA",40.7077812,-74.0015191
+297,E 15 St & 3 Ave,40.734232,-73.986923,10003,Manhattan,New York,New York County,New York,"E 15 St & 3 Ave, New York, NY 10003, USA",40.7339878,-73.98668459999999
+3494,E 115 St & Lexington Ave,40.797911,-73.9423,10029,Manhattan,New York,New York County,New York,"E 115 St & Lexington Ave, New York, NY 10029, USA",40.7979515,-73.9421271
+307,Canal St & Rutgers St,40.71427487,-73.98990025,10002,Manhattan,New York,New York County,New York,"Canal St & Rutgers St, New York, NY 10002, USA",40.7144072,-73.9902307
+128,MacDougal St & Prince St,40.72710258,-74.00297088,10012,Manhattan,New York,New York County,New York,"MacDougal St & Prince St, New York, NY 10012, USA",40.7268889,-74.00312939999999
+238,Bank St & Washington St,40.7361967,-74.00859207,10014,Manhattan,New York,New York County,New York,"Bank St & Washington St, New York, NY 10014, USA",40.7361967,-74.00832609999999
+3798,W 40 St & 5 Ave,40.752269,-73.982079,10018,Manhattan,New York,New York County,New York,"W 40 St & 5 Ave, New York, NY 10018, USA",40.7522003,-73.9818336
+3628,Lenox Ave & W 117 St,40.8025566,-73.9490782,10026,Manhattan,New York,New York County,New York,"Lenox Ave & W 117 St, New York, NY 10026, USA",40.80274310000001,-73.9492612
+2012,E 27 St & 1 Ave,40.739445,-73.97680600000001,10016,Manhattan,New York,New York County,New York,"E 27 St & 1 Ave, New York, NY 10016, USA",40.7393956,-73.9766952
+526,E 33 St & 5 Ave,40.74765947,-73.98490707,10016,Manhattan,New York,New York County,New York,"E 33 St & 5 Ave, New York, NY 10016, USA",40.7477694,-73.985072
+3160,Central Park West & W 76 St,40.77896784,-73.97374737,10024,Manhattan,New York,New York County,New York,"Central Park West & W 76 St, New York, NY 10024, USA",40.778812,-73.97408279999999
+495,W 47 St & 10 Ave,40.76269882,-73.99301222,10036,Manhattan,New York,New York County,New York,"W 47 St & 10 Ave, New York, NY 10036, USA",40.76282080000001,-73.9931515
+517,Pershing Square South,40.751581,-73.97791,10168,Manhattan,New York,New York County,New York,"Pershing Square South, New York, NY 10168, USA",40.7518839,-73.9776847
+369,Washington Pl & 6 Ave,40.73224119,-74.00026394,10011,Manhattan,New York,New York County,New York,"Washington Pl & 6 Ave, New York, NY 10011, USA",40.7323207,-74.0005199
+323,Lawrence St & Willoughby St,40.69236178,-73.98631746,11201,Brooklyn,,Kings County,New York,"Lawrence St & Willoughby St, Brooklyn, NY 11201, USA",40.692196,-73.9862725
+485,W 37 St & 5 Ave,40.75038009,-73.98338988,10018,Manhattan,New York,New York County,New York,"W 37 St & 5 Ave, New York, NY 10018, USA",40.7503608,-73.9831557
+3310,14 St & 7 Ave,40.663779,-73.98396846,11215,Brooklyn,,Kings County,New York,"14 St & 7 Ave, Brooklyn, NY 11215, USA",40.6638619,-73.9840389
+3159,W 67 St & Broadway,40.77492513,-73.98266566,10023,Manhattan,New York,New York County,New York,"W 67 St & Broadway, New York, NY 10023, USA",40.7747436,-73.9823148
+3300,Prospect Park West & 8 St,40.66514682,-73.97637606,11215,Brooklyn,,Kings County,New York,"Prospect Park West & 8 St, Brooklyn, NY 11215, USA",40.6652095,-73.9763439
+259,South St & Whitehall St,40.70122128,-74.01234218,10004,Manhattan,New York,New York County,New York,"South St & Whitehall St, New York, NY 10004, USA",40.7015152,-74.0124731
+490,8 Ave & W 33 St,40.751551,-73.993934,10001,Manhattan,New York,New York County,New York,"20 W 33rd Street Eighth Floor, New York, NY 10001, USA",40.7481888,-73.9863847
+3637,Fulton St & Waverly Ave,40.68323865,-73.96599591,11238,Brooklyn,,Kings County,New York,"Fulton St & Waverly Ave, Brooklyn, NY 11238, USA",40.6832782,-73.9658824
+478,11 Ave & W 41 St,40.76030096,-73.99884222,10036,Manhattan,New York,New York County,New York,"11 Ave & W 41 St, New York, NY 10036, USA",40.76015659999999,-73.9987993
+3668,Leonard St & Nassau Ave,40.72395678,-73.94984365,11222,Brooklyn,,Kings County,New York,"Leonard St & Nassau Ave, Brooklyn, NY 11222, USA",40.7240547,-73.9499257
+426,West St & Chambers St,40.71754834,-74.01322069,10282,Manhattan,New York,New York County,New York,"West St & Chambers St, New York, NY 10282, USA",40.7172535,-74.01304189999999
+416,Cumberland St & Lafayette Ave,40.68753406,-73.97265183,11238,Brooklyn,,Kings County,New York,"Cumberland St & Lafayette Ave, Brooklyn, NY 11238, USA",40.68742779999999,-73.97269399999999
+3368,5 Ave & 3 St,40.672815500000006,-73.98352355,11215,Brooklyn,,Kings County,New York,"5 Ave & 3 St, Brooklyn, NY 11215, USA",40.67281,-73.9832869
+393,E 5 St & Avenue C,40.72299208,-73.97995466,10009,Manhattan,New York,New York County,New York,"E 5 St & Avenue C, New York, NY 10009, USA",40.7228996,-73.9797315
+3379,E 103 St & Lexington Ave,40.790305100000005,-73.94755757,10029,Manhattan,New York,New York County,New York,"E 103 St & Lexington Ave, New York, NY 10029, USA",40.790325,-73.9476999
+405,Washington St & Gansevoort St,40.739323,-74.008119,10014,Manhattan,New York,New York County,New York,"Washington St & Gansevoort St, New York, NY 10014, USA",40.73938380000001,-74.0080543
+174,E 25 St & 1 Ave,40.7381765,-73.97738662,10010,Manhattan,New York,New York County,New York,"E 25 St & 1 Ave, New York, NY 10010, USA",40.7381701,-73.97758879999999
+296,Division St & Bowery (old),40.71413089,-73.99704679999999,10002,Manhattan,New York,New York County,New York,"4 Division St, New York, NY 10002, USA",40.7141837,-73.996999
+3068,Humboldt St & Varet St,40.7031724,-73.940636,11206,Brooklyn,,Kings County,New York,"Humboldt St & Varet St, Brooklyn, NY 11206, USA",40.7032211,-73.9407514
+440,E 45 St & 3 Ave,40.75255434,-73.97282625,10017,Manhattan,New York,New York County,New York,"E 45 St & 3 Ave, New York, NY 10017, USA",40.7526965,-73.9730489
+3411,Bond St & Bergen St,40.6849668,-73.98620772,11217,Brooklyn,,Kings County,New York,"Bond St & Bergen St, Brooklyn, NY 11217, USA",40.6850399,-73.9861351
+367,E 53 St & Lexington Ave,40.75828065,-73.97069431,10022,Manhattan,New York,New York County,New York,"E 53 St & Lexington Ave, New York, NY 10022, USA",40.7583867,-73.9709989
+380,W 4 St & 7 Ave S,40.73401143,-74.00293877,10014,Manhattan,New York,New York County,New York,"W 4 St & 7 Ave S, New York, NY 10014, USA",40.733644,-74.0028012
+3244,University Pl & E 8 St,40.73143724,-73.99490342,10003,Manhattan,New York,New York County,New York,"University Pl & E 8 St, New York, NY 10003, USA",40.7316122,-73.9947916
+3141,1 Ave & E 68 St,40.76500525,-73.95818491,10065,Manhattan,New York,New York County,New York,"1 Ave & E 68 St, New York, NY 10065, USA",40.7652466,-73.95787109999999
+3686,Gansevoort St & Hudson St,40.739448200000005,-74.00507033,10014,Manhattan,New York,New York County,New York,"Gansevoort St & Hudson St, New York, NY 10014, USA",40.7394118,-74.0053906
+3233,E 48 St & 5 Ave,40.75724568,-73.97805914,10017,Manhattan,New York,New York County,New York,"E 48 St & 5 Ave, New York, NY 10017, USA",40.7573003,-73.9781055
+3419,Douglass St & 4 Ave,40.67927879999999,-73.98154004,11217,Brooklyn,,Kings County,New York,"Douglass St & 4 Ave, Brooklyn, NY 11217, USA",40.6793436,-73.9818262
+379,W 31 St & 7 Ave,40.749156,-73.9916,10001,Manhattan,New York,New York County,New York,"W 31 St & 7 Ave, New York, NY 10001, USA",40.749101,-73.992006
+3506,Lexington Ave & E 120 St,40.8013066,-73.93981670000001,10035,Manhattan,New York,New York County,New York,"Lexington Ave & E 120 St, New York, NY 10035, USA",40.8011855,-73.9397639
+291,Madison St & Montgomery St,40.713126,-73.984844,10002,Manhattan,New York,New York County,New York,"Madison St & Montgomery St, New York, NY 10002, USA",40.713079,-73.98501569999999
+489,10 Ave & W 28 St,40.75066386,-74.00176802,10001,Manhattan,New York,New York County,New York,"10 Ave & W 28 St, New York, NY 10001, USA",40.7508407,-74.00188179999999
+439,E 4 St & 2 Ave,40.726280700000004,-73.98978041,10003,Manhattan,New York,New York County,New York,"E 4 St & 2 Ave, New York, NY 10003, USA",40.7261987,-73.9894438
+377,6 Ave & Canal St,40.72243797,-74.00566443,10013,Manhattan,New York,New York County,New York,"6 Ave & Canal St, New York, NY 10013, USA",40.721929,-74.0053587
+3164,Columbus Ave & W 72 St,40.7770575,-73.97898475,10023,Manhattan,New York,New York County,New York,"Columbus Ave & W 72 St, New York, NY 10023, USA",40.777411,-73.97881699999999
+450,W 49 St & 8 Ave,40.76227205,-73.98788205,10019,Manhattan,New York,New York County,New York,"W 49 St & 8 Ave, New York, NY 10019, USA",40.7616556,-73.9865591
+3671,E 81 St & 2 Ave,40.77477945,-73.95427465,10028,Manhattan,New York,New York County,New York,"E 81 St & 2 Ave, New York, NY 10028, USA",40.77466829999999,-73.9541074
+157,Henry St & Atlantic Ave,40.69089272,-73.99612349,11201,Brooklyn,,Kings County,New York,"Henry St & Atlantic Ave, Brooklyn, NY 11201, USA",40.6907667,-73.9962384
+472,E 32 St & Park Ave,40.745712100000006,-73.98194829,10016,Manhattan,New York,New York County,New York,"E 32 St & Park Ave, New York, NY 10016, USA",40.74578,-73.9822186
+387,Centre St & Chambers St,40.71273266,-74.0046073,10007,Manhattan,New York,New York County,New York,"Centre St & Chambers St, New York, NY 10007, USA",40.7131627,-74.0041201
+362,Broadway & W 37 St,40.75172632,-73.98753523,10018,Manhattan,New York,New York County,New York,"Broadway & W 37 St, New York, NY 10018, USA",40.7521773,-73.98753669999999
+3416,7 Ave & Park Pl,40.67761470000001,-73.97324283,11217,Brooklyn,,Kings County,New York,"7 Ave & Park Pl, Brooklyn, NY 11217, USA",40.677716,-73.973249
+3165,Central Park West & W 72 St,40.77579377,-73.97620574,10023,Manhattan,New York,New York County,New York,"Central Park West & W 72 St, New York, NY 10023, USA",40.7762306,-73.9759663
