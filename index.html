@@ -1,135 +1,121 @@
 <!DOCTYPE html>
-<html lang="en">
+
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="wideth-device-width, initial-scale=1, shrink-to-fit=no">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>The Wine-inator</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- BOOTSTRAP CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
-    <title>Project Wine-in-ator</title>
-
+  <!-- CSS -->
+  <link rel="stylesheet" href="">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css" media="screen">
 </head>
 
 <body>
+  <div class="body">
+    <nav class="navbar navbar-expand-lg navbar-custom">
+      <a class="navbar-brand" href="#">
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzXwyREtRjZbusEzF3W6UT-9mjBBNyohz8N8thuHBS-KrXMBTw&usqp=CAU"
+          width="30" height="30" class="d-inline-block align-top" alt="">
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-    <!-- BOOTSTRAP COMPONENTS/UTILITIES/ETC SETUP HERE -->
-
-    <!-- Navbar -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
-        <a class="navbar-brand" href="index.html">Wine-in-ator</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
-            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <!-- Dropdown Menu -->
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav">
-                <a class="nav-item active dropdown nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
-                    role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Dropdown Menu
-                </a>
-                <!-- Menu -->
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="#">Nav Item #1</a>
-                    <a class="dropdown-item" href="#">Nav Item #2</a>
-                    <a class="dropdown-item" href="#">Nav Item #3</a>
-                    <a class="dropdown-item" href="#">Nav Item #4</a>
-                </div>
-                <!-- Other page link -->
-                <li class="nav-item">
-                    <a class="nav-link" href="#">
-                        Other Page</a>
-                </li>
-                <!-- Another page link -->
-                <li class="nav-item">
-                    <a class="nav-link" href="#">
-                        Another Page</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
-
-
-    <!-- CONTAINER FOR PAGE CONTENT -->
-
-    <div class="container">
-
-        <!-- Header -->
-        <br>
-        <br>
-        <br>
-        <h1>TABLEAU DEMO</h1>
-        
-
-        <!-- Bootstrap Grid -->
-        <!-- Class keeps object within one column -->
-        <div class="row row-cols-1">
-
-            <!-- Class centers tableau object -->
-            <!-- Creates horizontal scroll bar. Useful for mobile size window -->
-            <div class="text-center">
-
-                <!-- Tableau Embed Object-->
-                <div class='tableauPlaceholder' id='viz1586028944962' style='position: relative'>
-                    <noscript>
-                        <a href='#'><img alt=' '
-                                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citibike_NYC_Data_Exploration&#47;Story1&#47;1_rss.png'
-                                style='border: none' /></a>
-                    </noscript>
-                    <object class='tableauViz' style='display:none;'>
-                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-                        <param name='embed_code_version' value='3' />
-                        <param name='site_root' value='' />
-                        <param name='name' value='Citibike_NYC_Data_Exploration&#47;Story1' />
-                        <param name='tabs' value='no' />
-                        <param name='toolbar' value='yes' />
-                        <param name='static_image'
-                            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citibike_NYC_Data_Exploration&#47;Story1&#47;1.png' />
-                        <param name='animate_transition' value='yes' />
-                        <param name='display_static_image' value='yes' />
-                        <param name='display_spinner' value='yes' />
-                        <param name='display_overlay' value='yes' />
-                        <param name='display_count' value='yes' />
-                    </object>
-                </div>
-                <script type='text/javascript'> var divElement = document.getElementById('viz1586028944962');
-                    var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width = '1016px'; vizElement.style.height = '991px';
-                    var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-                </script>
-                <br>
-                <br>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Tourist
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="tourist_geo.html">Missouri Winery Location</a>
+              <a class="dropdown-item" href="wine-profiles.html">Flavor Profiles</a>
             </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Vintner Model
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="vintner_wine_analytics.html">Vintner Overview</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="vintner_wine_analytics_add.html">Vintner Additional Analytics</a>
+              <a class="dropdown-item" href="vintner_redwine_monkey_predictor.html">Red Wine Monkey Business</a>
+              <!-- <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+              <a class="dropdown-item" href="#">Something else here</a> -->
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="header">
+            <h1 class="row justify-content-center">The Wine-inator</h1>
+            <hr class="header-hr" />
+          </div>
         </div>
-
-
-        <!-- OTHER CONTENT CONTINUES HERE -->
-
-
-
-
-
-
-
+      </div>
+      <section class="row">
+        <div class="col-md-6">
+          <div class="img-content">
+            <img src="https://paintingvalley.com/images/painting-and-drink-wine-8.jpg" class="img" alt="" />
+          </div>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-5">
+          <article class="paragraph-content">
+            <div class="row justify-content-end">
+              <div class="paragraph-text">
+                <p>This project offers two primary functions. The first draws upon existing research (Cortez et al., 2009) to build a machine learning model that uses chemical attributes as inputs to predict wine quality. The
+                  intended user for this application is an experienced vintner who understands how the various processes of winemaking influence these attributes. The second function is a user-friendly
+                  page for curious Missouri wine tourists. The page provides winery locations throughout Missouri as well as flavor profile information for red and white wines (via winefolly.com).
+                </p>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
     </div>
 
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
 
-    <!-- Bootstrap Support Scripts -->
-    <!-- DO NOT DELETE -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
-        crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-        crossorigin="anonymous"></script>
+    <script src="" async defer></script>
+
+
+
+
+      <!-- BOOTSTRAP SUPPORT SCRIPTS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"></script>
 
 </body>
 
