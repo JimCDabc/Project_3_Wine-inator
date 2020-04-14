@@ -7,7 +7,7 @@
     background-size: cover;
   } */
   body{
-  background-image: url('https://m.economictimes.com/thumb/msid-73139704,width-1200,height-900,resizemode-4,imgsize-263845/wine-types-istock.jpg');
+  background-color: #cccccc;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center top;
@@ -16,15 +16,14 @@
     margin-top: 30px;
     margin-bottom: 30px;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color:#e6e9ed ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   .img-content{
-    margin-top: 30px;
+    margin-top: -20px;
     margin-bottom: 30px;
-    margin-left: 30px;
+    margin-left: 420%;
     margin-right: 30px;
-    background-color: #e6e9ed;
+    
   }
   .paragraph-text{
     margin-top: 30px;
@@ -37,8 +36,8 @@
     border-right: 5px solid whitesmoke;
     word-wrap: break-word;
     font-size: auto;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #e6e9ed;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* background-color: #e6e9ed; */
   }
   .navbar-custom{
     background-color: #4f1427;
